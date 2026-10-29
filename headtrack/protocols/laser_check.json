@@ -1,0 +1,152 @@
+{
+  "name": "laser_check",
+  "description": "Reference angle-scale check (decision 11): head-mounted laser on targets drawn on the ultrawide. Procedure: headtrack/protocols/laser_check.md. 9 targets x 3 rounds, each round shuffled with Python random.Random(seed); 'target' names the mark for the target screen.",
+  "seed": 20261013,
+  "steps": [
+    {
+      "text": "Laser on the centre mark, hold still",
+      "seconds": 10,
+      "target": "C"
+    },
+    {
+      "text": "Point at right 30 and hold",
+      "seconds": 5,
+      "target": "R30"
+    },
+    {
+      "text": "Point at left 10 and hold",
+      "seconds": 5,
+      "target": "L10"
+    },
+    {
+      "text": "Point at centre and hold",
+      "seconds": 5,
+      "target": "C"
+    },
+    {
+      "text": "Point at down 10 and hold",
+      "seconds": 5,
+      "target": "D10"
+    },
+    {
+      "text": "Point at left 20 and hold",
+      "seconds": 5,
+      "target": "L20"
+    },
+    {
+      "text": "Point at right 20 and hold",
+      "seconds": 5,
+      "target": "R20"
+    },
+    {
+      "text": "Point at right 10 and hold",
+      "seconds": 5,
+      "target": "R10"
+    },
+    {
+      "text": "Point at left 30 and hold",
+      "seconds": 5,
+      "target": "L30"
+    },
+    {
+      "text": "Point at up 10 and hold",
+      "seconds": 5,
+      "target": "U10"
+    },
+    {
+      "text": "Point at left 10 and hold",
+      "seconds": 5,
+      "target": "L10"
+    },
+    {
+      "text": "Point at left 20 and hold",
+      "seconds": 5,
+      "target": "L20"
+    },
+    {
+      "text": "Point at up 10 and hold",
+      "seconds": 5,
+      "target": "U10"
+    },
+    {
+      "text": "Point at right 20 and hold",
+      "seconds": 5,
+      "target": "R20"
+    },
+    {
+      "text": "Point at down 10 and hold",
+      "seconds": 5,
+      "target": "D10"
+    },
+    {
+      "text": "Point at right 10 and hold",
+      "seconds": 5,
+      "target": "R10"
+    },
+    {
+      "text": "Point at right 30 and hold",
+      "seconds": 5,
+      "target": "R30"
+    },
+    {
+      "text": "Point at left 30 and hold",
+      "seconds": 5,
+      "target": "L30"
+    },
+    {
+      "text": "Point at centre and hold",
+      "seconds": 5,
+      "target": "C"
+    },
+    {
+      "text": "Point at right 10 and hold",
+      "seconds": 5,
+      "target": "R10"
+    },
+    {
+      "text": "Point at up 10 and hold",
+      "seconds": 5,
+      "target": "U10"
+    },
+    {
+      "text": "Point at centre and hold",
+      "seconds": 5,
+      "target": "C"
+    },
+    {
+      "text": "Point at right 30 and hold",
+      "seconds": 5,
+      "target": "R30"
+    },
+    {
+      "text": "Point at right 20 and hold",
+      "seconds": 5,
+      "target": "R20"
+    },
+    {
+      "text": "Point at down 10 and hold",
+      "seconds": 5,
+      "target": "D10"
+    },
+    {
+      "text": "Point at left 10 and hold",
+      "seconds": 5,
+      "target": "L10"
+    },
+    {
+      "text": "Point at left 20 and hold",
+      "seconds": 5,
+      "target": "L20"
+    },
+    {
+      "text": "Point at left 30 and hold",
+      "seconds": 5,
+      "target": "L30"
+    },
+    {
+      "text": "Back to the centre mark, hold still",
+      "seconds": 8,
+      "target": "C"
+    }
+  ]
+}

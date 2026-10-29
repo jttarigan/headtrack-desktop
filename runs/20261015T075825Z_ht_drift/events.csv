@@ -1,0 +1,19 @@
+t_ns,kind,detail
+18304500462583,airpods,connected
+18304578145166,reference,found HeadTrackRef
+18304584292458,reference,connected to HeadTrackRef
+18304671914791,airpods,disconnected
+18304672641125,airpods,connected
+18305190102250,camera,first frame 1280x720; 5120 bytes per row
+18305299564541,mediapipe,reader attached
+18307863379625,step,1/9 10.0s Face the screen and hold still
+18317926030416,step,2/9 290.0s Normal desk work. Keep your face toward the screen
+18608025926458,step,3/9 10.0s Face the screen and hold still
+18618025932000,step,4/9 290.0s Normal desk work. Keep your face toward the screen
+18908125939375,step,5/9 10.0s Face the screen and hold still
+18918225509958,step,6/9 290.0s Normal desk work. Keep your face toward the screen
+19208325901583,step,7/9 10.0s Face the screen and hold still
+19218325926750,step,8/9 290.0s Normal desk work. Keep your face toward the screen
+19508325956333,step,9/9 10.0s Face the screen and hold still
+19518425929041,protocol,done
+19520478308708,end,protocol_done

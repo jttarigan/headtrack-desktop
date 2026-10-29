@@ -1,0 +1,74 @@
+2026-10-15T07:37:18.128Z  session runs/20261015T073717Z_ht_core, protocol core, output {"name":"JTAIRPDMAX2","transport":"blue"}
+2026-10-15T07:37:18.130Z  airpods: authorization 3, device motion available 1
+2026-10-15T07:37:18.135Z  airpods: connected
+2026-10-15T07:37:18.207Z  camera: MacBook Air Camera, active format 1280x720
+2026-10-15T07:37:18.210Z  reference: found HeadTrackRef
+2026-10-15T07:37:18.216Z  reference: connected to HeadTrackRef
+2026-10-15T07:37:18.300Z  airpods: disconnected
+2026-10-15T07:37:18.300Z  airpods: connected
+2026-10-15T07:37:18.804Z  camera: first frame 1280x720, 5120 bytes per row
+2026-10-15T07:37:18.804Z  frame share: /eht_frames, 4 slots of 3686432 bytes, wake-up fifo runs/20261015T073717Z_ht_core/frames.fifo
+2026-10-15T07:37:18.898Z  mediapipe: reader attached
+2026-10-15T07:37:21.824Z  step: 1/60 10.0s Face the screen and hold still
+2026-10-15T07:37:31.853Z  step: 2/60 10.0s Turn slowly left and right
+2026-10-15T07:37:41.953Z  step: 3/60 10.0s Nod slowly up and down
+2026-10-15T07:37:52.052Z  step: 4/60 10.0s Tilt your head slowly to each shoulder
+2026-10-15T07:38:02.053Z  step: 5/60 5.0s Face the screen and hold still
+2026-10-15T07:38:07.053Z  step: 6/60 5.0s Turn a little left and hold
+2026-10-15T07:38:12.153Z  step: 7/60 5.0s Turn about 30 degrees left and hold
+2026-10-15T07:38:17.253Z  step: 8/60 5.0s Turn about 45 degrees left and hold
+2026-10-15T07:38:22.253Z  step: 9/60 5.0s Turn as far left as the screen edge and hold
+2026-10-15T07:38:27.252Z  step: 10/60 5.0s Face the screen and hold
+2026-10-15T07:38:32.352Z  step: 11/60 5.0s Turn a little right and hold
+2026-10-15T07:38:37.352Z  step: 12/60 5.0s Turn about 30 degrees right and hold
+2026-10-15T07:38:42.452Z  step: 13/60 5.0s Turn about 45 degrees right and hold
+2026-10-15T07:38:47.452Z  step: 14/60 5.0s Turn as far right as the screen edge and hold
+2026-10-15T07:38:52.552Z  step: 15/60 5.0s Face the screen and hold
+2026-10-15T07:38:57.552Z  step: 16/60 5.0s Look a little up and hold
+2026-10-15T07:39:02.652Z  step: 17/60 5.0s Look further up and hold
+2026-10-15T07:39:07.751Z  step: 18/60 5.0s Face the screen and hold
+2026-10-15T07:39:12.752Z  step: 19/60 5.0s Look a little down and hold
+2026-10-15T07:39:17.852Z  step: 20/60 5.0s Look further down and hold
+2026-10-15T07:39:22.952Z  step: 21/60 5.0s Face the screen and hold
+2026-10-15T07:39:28.052Z  step: 22/60 5.0s Look up and to the left and hold
+2026-10-15T07:39:33.152Z  step: 23/60 5.0s Look up and to the right and hold
+2026-10-15T07:39:38.251Z  step: 24/60 5.0s Look down and to the left and hold
+2026-10-15T07:39:43.251Z  step: 25/60 5.0s Look down and to the right and hold
+2026-10-15T07:39:48.351Z  step: 26/60 5.0s Face the screen and hold
+2026-10-15T07:39:53.351Z  step: 27/60 15.0s Slow turns, left and right
+2026-10-15T07:40:08.451Z  step: 28/60 10.0s Medium speed turns, left and right
+2026-10-15T07:40:18.551Z  step: 29/60 8.0s Fast turns, left and right
+2026-10-15T07:40:26.651Z  step: 30/60 5.0s Face the screen and hold still
+2026-10-15T07:40:31.751Z  step: 31/60 12.0s Slow nods, up and down
+2026-10-15T07:40:43.751Z  step: 32/60 8.0s Medium speed nods
+2026-10-15T07:40:51.850Z  step: 33/60 6.0s Fast nods
+2026-10-15T07:40:57.850Z  step: 34/60 5.0s Face the screen and hold still
+2026-10-15T07:41:02.850Z  step: 35/60 3.0s Quick look left, then back to the screen
+2026-10-15T07:41:05.850Z  step: 36/60 3.0s Hold still
+2026-10-15T07:41:08.950Z  step: 37/60 3.0s Quick look right, then back to the screen
+2026-10-15T07:41:12.050Z  step: 38/60 3.0s Hold still
+2026-10-15T07:41:15.150Z  step: 39/60 3.0s Quick look left, then back to the screen
+2026-10-15T07:41:18.150Z  step: 40/60 3.0s Hold still
+2026-10-15T07:41:21.150Z  step: 41/60 3.0s Quick look right, then back to the screen
+2026-10-15T07:41:24.250Z  step: 42/60 3.0s Hold still
+2026-10-15T07:41:27.350Z  step: 43/60 3.0s Quick look left, then back to the screen
+2026-10-15T07:41:30.450Z  step: 44/60 3.0s Hold still
+2026-10-15T07:41:33.550Z  step: 45/60 3.0s Quick look right, then back to the screen
+2026-10-15T07:41:36.649Z  step: 46/60 3.0s Hold still
+2026-10-15T07:41:39.650Z  step: 47/60 3.0s Quick look left, then back to the screen
+2026-10-15T07:41:42.750Z  step: 48/60 3.0s Hold still
+2026-10-15T07:41:45.849Z  step: 49/60 3.0s Quick look right, then back to the screen
+2026-10-15T07:41:48.850Z  step: 50/60 3.0s Hold still
+2026-10-15T07:41:51.949Z  step: 51/60 8.0s Quick head shakes, left and right
+2026-10-15T07:41:59.949Z  step: 52/60 5.0s Face the screen and hold still
+2026-10-15T07:42:05.049Z  step: 53/60 5.0s Turn as far left as is comfortable and hold
+2026-10-15T07:42:10.049Z  step: 54/60 3.0s Face the screen
+2026-10-15T07:42:13.149Z  step: 55/60 5.0s Turn as far right as is comfortable and hold
+2026-10-15T07:42:18.249Z  step: 56/60 3.0s Face the screen
+2026-10-15T07:42:21.349Z  step: 57/60 5.0s Look as far up as is comfortable and hold
+2026-10-15T07:42:26.350Z  step: 58/60 3.0s Face the screen
+2026-10-15T07:42:29.449Z  step: 59/60 5.0s Look as far down as is comfortable and hold
+2026-10-15T07:42:34.449Z  step: 60/60 10.0s Face the screen and hold still
+2026-10-15T07:42:44.549Z  protocol: done
+2026-10-15T07:42:46.588Z  end: protocol_done
+2026-10-15T07:42:46.645Z  end (protocol_done): airpods 14445, camera 9832 (drops 0, vision faces 9797), shared 9832, ref 19652 (tracked 16603), pongs 3279

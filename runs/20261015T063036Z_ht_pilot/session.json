@@ -1,0 +1,52 @@
+{
+  "tool": "HeadTrackRecorder",
+  "start_utc": "2026-10-15T06:30:36.390Z",
+  "start_ns": 13034532225291,
+  "clock": "mach_absolute_time in ns (CLOCK_UPTIME_RAW)",
+  "macos": "26.6.2",
+  "os_build": "25G83",
+  "model": "Mac17,4",
+  "output_device": {
+    "name": "JTAIRPDMAX2",
+    "transport": "blue"
+  },
+  "thermal_at_start": "nominal",
+  "protocol": "pilot",
+  "protocol_file": "headtrack/protocols/pilot.json",
+  "speak": true,
+  "args": ["--out", "runs/20261015T063036Z_ht_pilot", "--protocol", "headtrack/protocols/pilot.json", "--speak", "on"],
+  "camera": {
+    "device": "MacBook Air Camera",
+    "model": "MacBook Air Camera",
+    "center_stage_enabled": false,
+    "portrait_effect_active": false,
+    "studio_light_active": false,
+    "formats": ["640x480 420v max 30 fps", "1280x720 420v max 30 fps", "1760x1328 420v max 30 fps", "1328x1760 420v max 30 fps", "1552x1552 420v max 30 fps", "1920x1080 420v max 30 fps", "1080x1920 420v max 30 fps"],
+    "format_set_after_start": true,
+    "active_format": "1280x720, min frame duration 0.0333 s",
+    "session_preset": "AVCaptureSessionPreset1280x720",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "format_max_fps": 30,
+    "vision": true,
+    "share_frames": true
+  },
+  "end": {
+    "reason": "protocol_done",
+    "duration_s": 151.572034334,
+    "airpods_samples": 7068,
+    "camera_frames": 4520,
+    "camera_drops": 0,
+    "vision_faces": 4337,
+    "frames_shared": 4520,
+    "ref_poses": 9063,
+    "ref_tracked": 7858,
+    "sync_pongs": 1508,
+    "cpu_user_s": 44.573575,
+    "cpu_system_s": 18.430677,
+    "thermal": "nominal",
+    "airpods_authorization": 3
+  }
+}
+

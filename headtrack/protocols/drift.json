@@ -1,0 +1,41 @@
+{
+  "name": "drift",
+  "steps": [
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Normal desk work. Keep your face toward the screen",
+      "seconds": 290
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Normal desk work. Keep your face toward the screen",
+      "seconds": 290
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Normal desk work. Keep your face toward the screen",
+      "seconds": 290
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Normal desk work. Keep your face toward the screen",
+      "seconds": 290
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "mp_live.py",
+  "mediapipe": "1.1.0",
+  "opencv": "5.0.0",
+  "python": "3.9.6",
+  "model": "headtrack/models/face_landmarker.task",
+  "model_sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff",
+  "frames_processed": 9811,
+  "frames_with_face": 8666,
+  "frames_skipped": 0,
+  "frames_torn": 0,
+  "process_cpu_s": 96.172,
+  "wall_s": 327.08,
+  "cpu_share_of_one_core": 0.294,
+  "convert_plus_inference_ms": {
+    "median": 7.632,
+    "p95": 9.798,
+    "max": 32.528
+  }
+}

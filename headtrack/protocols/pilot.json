@@ -1,0 +1,81 @@
+{
+  "name": "pilot",
+  "steps": [
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Turn slowly left and right, a few times",
+      "seconds": 20
+    },
+    {
+      "text": "Nod slowly up and down, a few times",
+      "seconds": 15
+    },
+    {
+      "text": "Tilt your head slowly to each shoulder",
+      "seconds": 15
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Turn about 30 degrees left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Turn about 30 degrees right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Look up and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Look down and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still, then snap your head quickly to the left and back. Repeat",
+      "seconds": 12
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick head shakes, left and right",
+      "seconds": 8
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Turn as far left as is comfortable, then as far right",
+      "seconds": 10
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    }
+  ]
+}

@@ -1,0 +1,1437 @@
+{
+  "sessions": [
+    {
+      "label": "P",
+      "path": "runs/20261015T063036Z_ht_pilot",
+      "roles": [
+        "latency"
+      ],
+      "condition": "pilot protocol, silent"
+    },
+    {
+      "label": "S",
+      "path": "runs/20261015T063947Z_ht_snaps",
+      "roles": [
+        "latency"
+      ],
+      "condition": "quick turns, silent"
+    },
+    {
+      "label": "C1",
+      "path": "runs/20261015T073717Z_ht_core",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "condition": "full protocol, silent"
+    },
+    {
+      "label": "C2",
+      "path": "runs/20261015T074821Z_ht_core",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "condition": "full protocol, music"
+    },
+    {
+      "label": "D1",
+      "path": "runs/20261015T075825Z_ht_drift",
+      "roles": [
+        "drift"
+      ],
+      "condition": "20 min desk work, music"
+    },
+    {
+      "label": "C3",
+      "path": "runs/20261023T051220Z_ht_core",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "condition": "full protocol, silent"
+    },
+    {
+      "label": "C4",
+      "path": "runs/20261023T051904Z_ht_core",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "condition": "full protocol, music"
+    },
+    {
+      "label": "D2",
+      "path": "runs/20261023T062208Z_ht_drift",
+      "roles": [
+        "drift"
+      ],
+      "condition": "20 min desk work, music"
+    }
+  ],
+  "clock_sync": {
+    "P": {
+      "best_ms": 1.9683755,
+      "bound_ms": 3.260021,
+      "rtt_min_ms": 3.936751,
+      "rtt_median_ms": 6.750479,
+      "drift_ppm": 1.3972435224504445
+    },
+    "S": {
+      "best_ms": 2.018708,
+      "bound_ms": 2.459,
+      "rtt_min_ms": 4.037416,
+      "rtt_median_ms": 6.395167,
+      "drift_ppm": 2.110799414976528
+    },
+    "C1": {
+      "best_ms": 2.0184165,
+      "bound_ms": 3.969417,
+      "rtt_min_ms": 4.036833,
+      "rtt_median_ms": 9.471584,
+      "drift_ppm": 1.0406544302894867
+    },
+    "C2": {
+      "best_ms": 1.955167,
+      "bound_ms": 3.518687,
+      "rtt_min_ms": 3.910334,
+      "rtt_median_ms": 6.522499,
+      "drift_ppm": 0.5326636743053565
+    },
+    "D1": {
+      "best_ms": 1.9204165,
+      "bound_ms": 7.2973125,
+      "rtt_min_ms": 3.840833,
+      "rtt_median_ms": 8.014125,
+      "drift_ppm": 1.2804574599920444
+    },
+    "C3": {
+      "best_ms": 1.9767085,
+      "bound_ms": 2.4245205,
+      "rtt_min_ms": 3.953417,
+      "rtt_median_ms": 5.2457080000000005,
+      "drift_ppm": 3.4723722382550455
+    },
+    "C4": {
+      "best_ms": 1.906042,
+      "bound_ms": 2.290229,
+      "rtt_min_ms": 3.812084,
+      "rtt_median_ms": 5.131729,
+      "drift_ppm": 2.560745712890285
+    },
+    "D2": {
+      "best_ms": 1.970958,
+      "bound_ms": 2.969334,
+      "rtt_min_ms": 3.941916,
+      "rtt_median_ms": 5.728813000000001,
+      "drift_ppm": 1.9141743326217133
+    }
+  },
+  "reference": {
+    "P": {
+      "tracked_share": 0.8670418183824341,
+      "rate_hz": 59.898373181766836,
+      "capture_to_delivered_ms": 46.621709,
+      "phone_to_mac_ms": 2.48588,
+      "noise_deg": {
+        "yaw": 0.11492682895103068,
+        "pitch": 0.12143971993383212,
+        "roll": 0.07368690324548681,
+        "periods": 24,
+        "samples": 2567
+      }
+    },
+    "S": {
+      "tracked_share": 1.0,
+      "rate_hz": 59.90504116206667,
+      "capture_to_delivered_ms": 48.04875,
+      "phone_to_mac_ms": 2.589036,
+      "noise_deg": {
+        "yaw": 0.07367397523178522,
+        "pitch": 0.09680894169319197,
+        "roll": 0.05526467798527064,
+        "periods": 14,
+        "samples": 818
+      }
+    },
+    "C1": {
+      "tracked_share": 0.8448503969061673,
+      "rate_hz": 59.86838010014954,
+      "capture_to_delivered_ms": 46.4704165,
+      "phone_to_mac_ms": 4.0056995,
+      "noise_deg": {
+        "yaw": 0.10652405861001875,
+        "pitch": 0.1236708687916689,
+        "roll": 0.08518283661669003,
+        "periods": 89,
+        "samples": 6191
+      }
+    },
+    "C2": {
+      "tracked_share": 0.8791374122367102,
+      "rate_hz": 59.90491827071703,
+      "capture_to_delivered_ms": 46.603666000000004,
+      "phone_to_mac_ms": 2.6475425,
+      "noise_deg": {
+        "yaw": 0.10141796283746712,
+        "pitch": 0.10665116769259383,
+        "roll": 0.07262127694943725,
+        "periods": 98,
+        "samples": 5662
+      }
+    },
+    "D1": {
+      "tracked_share": 0.9931581188948576,
+      "rate_hz": 59.865497901392416,
+      "capture_to_delivered_ms": 46.927542,
+      "phone_to_mac_ms": 3.156684,
+      "noise_deg": {
+        "yaw": 0.14549234622792653,
+        "pitch": 0.13445425596420907,
+        "roll": 0.11026847582112301,
+        "periods": 390,
+        "samples": 35685
+      }
+    },
+    "C3": {
+      "tracked_share": 0.9026667328797735,
+      "rate_hz": 59.90509748668348,
+      "capture_to_delivered_ms": 47.226083,
+      "phone_to_mac_ms": 2.331091,
+      "noise_deg": {
+        "yaw": 0.09815020268631905,
+        "pitch": 0.11779115140846944,
+        "roll": 0.09316419683166309,
+        "periods": 111,
+        "samples": 5727
+      }
+    },
+    "C4": {
+      "tracked_share": 0.8933211065260583,
+      "rate_hz": 59.883689113617024,
+      "capture_to_delivered_ms": 47.23025,
+      "phone_to_mac_ms": 2.274926,
+      "noise_deg": {
+        "yaw": 0.10417128135279637,
+        "pitch": 0.10599352076225031,
+        "roll": 0.0758028725930211,
+        "periods": 109,
+        "samples": 5266
+      }
+    },
+    "D2": {
+      "tracked_share": 0.9959787722945618,
+      "rate_hz": 59.89110678166607,
+      "capture_to_delivered_ms": 46.8458545,
+      "phone_to_mac_ms": 2.3766985,
+      "noise_deg": {
+        "yaw": 0.12064546126310777,
+        "pitch": 0.13062646176460876,
+        "roll": 0.1034829186376421,
+        "periods": 448,
+        "samples": 33299
+      }
+    }
+  },
+  "duration_s": {
+    "P": 151.28000000000014,
+    "S": 46.30000000000004,
+    "C1": 328.23000000000025,
+    "C2": 332.8400000000003,
+    "D1": 1215.820000000001,
+    "C3": 336.1300000000003,
+    "C4": 327.76000000000033,
+    "D2": 1220.7300000000012
+  },
+  "headphones": [
+    "9A348"
+  ],
+  "trackers": {
+    "airpods": {
+      "rate_hz": {
+        "median": 49.5074595923669,
+        "min": 44.01631262754664,
+        "max": 49.727415785331786,
+        "n": 6
+      },
+      "valid_share": {
+        "median": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "n": 4
+      },
+      "burst_share": {
+        "median": 0.34878138084736365,
+        "min": 0.323904502870958,
+        "max": 0.39331210191082805,
+        "n": 4
+      },
+      "arrival_gap_p99_ms": {
+        "median": 94.4156080000073,
+        "min": 69.17726999998987,
+        "max": 129.03887650000206,
+        "n": 4
+      },
+      "lag_impulsive_ms": {
+        "median": 5.034721409954127,
+        "min": -7.491117700111111,
+        "max": 9.40792043917336,
+        "n": 6
+      },
+      "lag_smooth_ms": {
+        "median": -4.951221425198041,
+        "min": -20.101862781983243,
+        "max": 25.180924549221544,
+        "n": 5
+      },
+      "motion_to_data_median_ms": {
+        "median": 40.43412658417991,
+        "min": 27.991437178337726,
+        "max": 50.697697915951395,
+        "n": 6
+      },
+      "motion_to_data_p95_ms": {
+        "median": 81.26434983417072,
+        "min": 68.8368791783386,
+        "max": 100.35084937609874,
+        "n": 6
+      },
+      "app_view_lag_ms": {
+        "median": 52.11961235711041,
+        "min": 34.80531980948933,
+        "max": 59.857452440153885,
+        "n": 6
+      },
+      "timestamp_to_arrival_ms": {
+        "median": 40.31217675,
+        "min": 31.279916,
+        "max": 43.379291,
+        "n": 4
+      }
+    },
+    "mediapipe": {
+      "rate_hz": {
+        "median": 29.990030523631617,
+        "min": 29.989087998926315,
+        "max": 29.996765493456014,
+        "n": 6
+      },
+      "valid_share": {
+        "median": 0.8338447488426122,
+        "min": 0.8186349303224494,
+        "max": 0.8527044922073953,
+        "n": 4
+      },
+      "burst_share": {
+        "median": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4
+      },
+      "arrival_gap_p99_ms": {
+        "median": 42.63061106499464,
+        "min": 40.04953475000371,
+        "max": 43.89303686000686,
+        "n": 4
+      },
+      "lag_impulsive_ms": {
+        "median": -2.8179828569909238,
+        "min": -10.76523794094295,
+        "max": 1.294139525297729,
+        "n": 6
+      },
+      "lag_smooth_ms": {
+        "median": -9.007821466847416,
+        "min": -20.381592538153193,
+        "max": -1.8117356118205483,
+        "n": 5
+      },
+      "motion_to_data_median_ms": {
+        "median": 82.6569782259823,
+        "min": 56.78663045435036,
+        "max": 91.28582172078656,
+        "n": 6
+      },
+      "motion_to_data_p95_ms": {
+        "median": 90.83152087597912,
+        "min": 66.99256795434002,
+        "max": 95.26118432077159,
+        "n": 6
+      },
+      "app_view_lag_ms": {
+        "median": 92.8758664976784,
+        "min": 66.32978142504889,
+        "max": 107.4193046500954,
+        "n": 6
+      },
+      "capture_to_delivered_ms": {
+        "median": 67.77229125,
+        "min": 50.731166,
+        "max": 84.29625,
+        "n": 4
+      },
+      "capture_to_done_ms": {
+        "median": 76.89521875,
+        "min": 58.577958,
+        "max": 96.225041,
+        "n": 4
+      }
+    },
+    "vision": {
+      "rate_hz": {
+        "median": 29.990775643048174,
+        "min": 29.99061386219803,
+        "max": 29.995126498777005,
+        "n": 6
+      },
+      "valid_share": {
+        "median": 0.9928033055849863,
+        "min": 0.9735770338730506,
+        "max": 0.9996944387859035,
+        "n": 4
+      },
+      "burst_share": {
+        "median": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "n": 4
+      },
+      "arrival_gap_p99_ms": {
+        "median": 45.310677049998844,
+        "min": 41.17150486001009,
+        "max": 49.84929154999627,
+        "n": 4
+      },
+      "lag_impulsive_ms": {
+        "median": -9.404321463696844,
+        "min": -11.833082964867415,
+        "max": -0.9220372968341952,
+        "n": 6
+      },
+      "lag_smooth_ms": {
+        "median": -24.718533732628245,
+        "min": -50.0,
+        "max": -20.22762389144328,
+        "n": 5
+      },
+      "motion_to_data_median_ms": {
+        "median": 82.55253573966249,
+        "min": 66.49408475886064,
+        "max": 86.17934130919215,
+        "n": 6
+      },
+      "motion_to_data_p95_ms": {
+        "median": 86.94015429481664,
+        "min": 72.13581415889395,
+        "max": 90.29433986585126,
+        "n": 6
+      },
+      "app_view_lag_ms": {
+        "median": 98.20512556252456,
+        "min": 76.36965604524052,
+        "max": 103.6476299997412,
+        "n": 6
+      },
+      "capture_to_delivered_ms": {
+        "median": 67.772312,
+        "min": 50.731395500000005,
+        "max": 84.2966455,
+        "n": 4
+      },
+      "capture_to_done_ms": {
+        "median": 83.66360399999999,
+        "min": 70.6368745,
+        "max": 97.0710205,
+        "n": 4
+      }
+    },
+    "cost": {
+      "mediapipe_cpu_share_one_core": {
+        "median": 0.3245,
+        "min": 0.26,
+        "max": 0.389,
+        "n": 4
+      },
+      "recorder_cpu_share_one_core": {
+        "median": 0.40627629994249426,
+        "min": 0.356203677265815,
+        "max": 0.4204937439669137,
+        "n": 4
+      },
+      "vision_compute_ms": {
+        "median": 14.191812500000001,
+        "min": 11.9909165,
+        "max": 16.3089375,
+        "n": 4
+      },
+      "mediapipe_inference_ms": {
+        "median": 8.9845,
+        "min": 6.887,
+        "max": 10.9,
+        "n": 4
+      },
+      "thermal": [
+        "nominal"
+      ]
+    }
+  },
+  "agreement_deg": {
+    "airpods": {
+      "still": {
+        "yaw": {
+          "bias": -0.36530167161752525,
+          "loa_low": -2.15692691373724,
+          "loa_high": 1.4263235705021895,
+          "mae": 0.8085217130912992,
+          "rms": 0.9843753895090571,
+          "n": 43566
+        },
+        "pitch": {
+          "bias": 0.167476259820362,
+          "loa_low": -1.726483463967146,
+          "loa_high": 2.06143598360787,
+          "mae": 0.6775406151008523,
+          "rms": 0.9807008282844747,
+          "n": 43566
+        },
+        "roll": {
+          "bias": -0.28051686057601566,
+          "loa_low": -1.8121914570709836,
+          "loa_high": 1.251157735918952,
+          "mae": 0.6456647455398963,
+          "rms": 0.8302805469465552,
+          "n": 43566
+        }
+      },
+      "moving": {
+        "yaw": {
+          "bias": 0.2413078090988717,
+          "loa_low": -11.506329335500723,
+          "loa_high": 11.988944953698468,
+          "mae": 3.209812617649555,
+          "rms": 5.99850261218524,
+          "n": 65952
+        },
+        "pitch": {
+          "bias": -0.4408759122819807,
+          "loa_low": -5.55987678553321,
+          "loa_high": 4.678124960969249,
+          "mae": 1.8565221413624127,
+          "rms": 2.648665434203617,
+          "n": 65952
+        },
+        "roll": {
+          "bias": 0.27954943648888747,
+          "loa_low": -6.670888919264069,
+          "loa_high": 7.229987792241843,
+          "mae": 1.8786852055247185,
+          "rms": 3.5571168704637977,
+          "n": 65952
+        }
+      }
+    },
+    "mediapipe": {
+      "still": {
+        "yaw": {
+          "bias": 0.38777844073195955,
+          "loa_low": -1.779020366239265,
+          "loa_high": 2.5545772477031843,
+          "mae": 0.937154252072299,
+          "rms": 1.1715363303645523,
+          "n": 46627
+        },
+        "pitch": {
+          "bias": 0.35742775027090506,
+          "loa_low": -1.2524296073091676,
+          "loa_high": 1.9672851078509779,
+          "mae": 0.7006019502600962,
+          "rms": 0.8957485526466906,
+          "n": 46627
+        },
+        "roll": {
+          "bias": -0.32059547104254976,
+          "loa_low": -1.3911934322078274,
+          "loa_high": 0.7500024901227278,
+          "mae": 0.4983261102714028,
+          "rms": 0.6333522827375129,
+          "n": 46627
+        }
+      },
+      "moving": {
+        "yaw": {
+          "bias": -0.3046898635603802,
+          "loa_low": -5.142292885864756,
+          "loa_high": 4.5329131587439955,
+          "mae": 1.6458242554684817,
+          "rms": 2.4868798941901016,
+          "n": 59829
+        },
+        "pitch": {
+          "bias": -0.12126054097708124,
+          "loa_low": -3.837087066430407,
+          "loa_high": 3.5945659844762443,
+          "mae": 1.177220507626134,
+          "rms": 1.8996881066436229,
+          "n": 59829
+        },
+        "roll": {
+          "bias": 0.47523637411257946,
+          "loa_low": -2.709274364388685,
+          "loa_high": 3.659747112613844,
+          "mae": 1.0058287812389093,
+          "rms": 1.6928140109005183,
+          "n": 59829
+        }
+      }
+    },
+    "vision": {
+      "still": {
+        "yaw": {
+          "bias": -0.6278313037976706,
+          "loa_low": -6.275598013697044,
+          "loa_high": 5.019935406101702,
+          "mae": 2.0718149047839747,
+          "rms": 2.949087122503122,
+          "n": 46627
+        },
+        "pitch": {
+          "bias": 0.8327330158604055,
+          "loa_low": -5.470715437982097,
+          "loa_high": 7.136181469702908,
+          "mae": 2.4488133181460743,
+          "rms": 3.3220729564002354,
+          "n": 46627
+        },
+        "roll": {
+          "bias": 0.18815363265839688,
+          "loa_low": -3.0557968652896403,
+          "loa_high": 3.4321041306064344,
+          "mae": 1.2336554986417987,
+          "rms": 1.665719725479574,
+          "n": 46627
+        }
+      },
+      "moving": {
+        "yaw": {
+          "bias": 0.24359369991527377,
+          "loa_low": -11.742673112730563,
+          "loa_high": 12.229860512561109,
+          "mae": 4.369981484453513,
+          "rms": 6.120247917237523,
+          "n": 69611
+        },
+        "pitch": {
+          "bias": -1.0709575443604953,
+          "loa_low": -15.227767216545672,
+          "loa_high": 13.085852127824683,
+          "mae": 5.033073051529468,
+          "rms": 7.301776304967047,
+          "n": 69611
+        },
+        "roll": {
+          "bias": 0.07163642852612863,
+          "loa_low": -8.38428552439849,
+          "loa_high": 8.527558381450746,
+          "mae": 2.8253137136406727,
+          "rms": 4.31480961723184,
+          "n": 69611
+        }
+      }
+    }
+  },
+  "agreement_note": "AirPods yaw detrended per session (drift reported separately); latency compensated; pooled over core sessions",
+  "geodesic_moving_median_deg": {
+    "airpods": {
+      "median": 5.933140234713338,
+      "min": 3.837547729272724,
+      "max": 7.96810178671245,
+      "n": 4
+    },
+    "mediapipe": {
+      "median": 1.805339943981161,
+      "min": 1.6096987403637522,
+      "max": 2.0266570826624277,
+      "n": 4
+    },
+    "vision": {
+      "median": 6.427689018212281,
+      "min": 5.346158753523383,
+      "max": 7.364057336658376,
+      "n": 4
+    }
+  },
+  "noise_deg": {
+    "airpods": {
+      "yaw": {
+        "median": 0.05210119174169873,
+        "min": 0.04432245083456869,
+        "max": 0.06419461162864701,
+        "n": 4
+      },
+      "pitch": {
+        "median": 0.0568256638850828,
+        "min": 0.05204138338457404,
+        "max": 0.06636001952318774,
+        "n": 4
+      },
+      "roll": {
+        "median": 0.03353398961842269,
+        "min": 0.027796910472262355,
+        "max": 0.037646610580742534,
+        "n": 4
+      }
+    },
+    "mediapipe": {
+      "yaw": {
+        "median": 0.06981388699324667,
+        "min": 0.05355033219585514,
+        "max": 0.08617132121531007,
+        "n": 4
+      },
+      "pitch": {
+        "median": 0.09520112082483162,
+        "min": 0.07982659019634658,
+        "max": 0.10837727014732118,
+        "n": 4
+      },
+      "roll": {
+        "median": 0.04561773926950394,
+        "min": 0.03795256753575994,
+        "max": 0.05139807660939106,
+        "n": 4
+      }
+    },
+    "vision": {
+      "yaw": {
+        "median": 0.34675393263055165,
+        "min": 0.3081919578028488,
+        "max": 0.4162103839834535,
+        "n": 4
+      },
+      "pitch": {
+        "median": 0.4684968971455006,
+        "min": 0.44475601104668117,
+        "max": 0.5126618718661157,
+        "n": 4
+      },
+      "roll": {
+        "median": 0.23601732831774458,
+        "min": 0.20511287530982236,
+        "max": 0.28919183230481066,
+        "n": 4
+      }
+    },
+    "reference": {
+      "yaw": {
+        "median": 0.10279462209513174,
+        "min": 0.09815020268631905,
+        "max": 0.10652405861001875,
+        "n": 4
+      },
+      "pitch": {
+        "median": 0.11222115955053164,
+        "min": 0.10599352076225031,
+        "max": 0.1236708687916689,
+        "n": 4
+      },
+      "roll": {
+        "median": 0.08049285460485556,
+        "min": 0.07262127694943725,
+        "max": 0.09316419683166309,
+        "n": 4
+      }
+    }
+  },
+  "range": {
+    "mediapipe": {
+      "0-15": {
+        "share": 0.9957804002978541,
+        "seconds": 886.34
+      },
+      "15-30": {
+        "share": 0.9978553556535208,
+        "seconds": 83.93
+      },
+      "30-45": {
+        "share": 0.8750309942970493,
+        "seconds": 80.66
+      },
+      "45-60": {
+        "share": 0.6562582693834348,
+        "seconds": 37.79
+      },
+      "60-90": {
+        "share": 0.03706128863279204,
+        "seconds": 76.36
+      }
+    },
+    "vision": {
+      "0-15": {
+        "share": 0.9973373648938331,
+        "seconds": 886.34
+      },
+      "15-30": {
+        "share": 1.0,
+        "seconds": 83.93
+      },
+      "30-45": {
+        "share": 1.0,
+        "seconds": 80.66
+      },
+      "45-60": {
+        "share": 1.0,
+        "seconds": 37.79
+      },
+      "60-90": {
+        "share": 0.9955474070193818,
+        "seconds": 76.36
+      }
+    },
+    "yaw_error_by_bin": {
+      "airpods": {
+        "0-15": 0.7772909365915126,
+        "15-30": 1.3433354911521014,
+        "30-45": 4.565375130496221,
+        "45-60": 7.22513483879988,
+        "60-90": 9.689401953819358
+      },
+      "mediapipe": {
+        "0-15": 0.8183132483299147,
+        "15-30": 2.7294677115553156,
+        "30-45": 2.1546861056170314,
+        "45-60": 2.0295319837061783,
+        "60-90": 3.9373719577564827
+      },
+      "vision": {
+        "0-15": 1.629839088547783,
+        "15-30": 5.419865445085776,
+        "30-45": 7.338697870142482,
+        "45-60": 10.03833874186077,
+        "60-90": 6.450043181667638
+      }
+    },
+    "reference_angle_range_deg": {
+      "C1": {
+        "yaw": [
+          -47.24028584714213,
+          85.87853966027586
+        ],
+        "pitch": [
+          -33.72978113526188,
+          53.97966551948462
+        ],
+        "roll": [
+          -41.822623352979875,
+          48.43823976769331
+        ]
+      },
+      "C2": {
+        "yaw": [
+          -48.41835012561401,
+          83.32264735599689
+        ],
+        "pitch": [
+          -36.987024568979606,
+          51.52976731144568
+        ],
+        "roll": [
+          -38.21676761431228,
+          46.2415694982286
+        ]
+      },
+      "C3": {
+        "yaw": [
+          -52.01073283617036,
+          82.362878479858
+        ],
+        "pitch": [
+          -35.3739315845136,
+          51.86087360100942
+        ],
+        "roll": [
+          -35.202673323951714,
+          45.19065535069764
+        ]
+      },
+      "C4": {
+        "yaw": [
+          -50.642365522826935,
+          83.57063360565449
+        ],
+        "pitch": [
+          -37.158800823159964,
+          50.672691954996125
+        ],
+        "roll": [
+          -34.70432282379662,
+          41.574142593738586
+        ]
+      }
+    },
+    "reference_tracked_share": {
+      "C1": 0.8448503969061673,
+      "C2": 0.8791374122367102,
+      "C3": 0.9026667328797735,
+      "C4": 0.8933211065260583
+    }
+  },
+  "drift": {
+    "P": {
+      "deg_per_min": -1.005137708278359,
+      "span_min": 2.4680000000000017,
+      "r2": 0.56054651716768,
+      "headphones": "airpods"
+    },
+    "S": {
+      "deg_per_min": -1.308914734736611,
+      "span_min": 0.4978333333333338,
+      "r2": 0.6617198111135032,
+      "headphones": "airpods"
+    },
+    "C1": {
+      "deg_per_min": 1.7878478680021848,
+      "span_min": 5.442333333333338,
+      "r2": 0.9193457024653748,
+      "headphones": "airpods"
+    },
+    "C2": {
+      "deg_per_min": 1.923045406185689,
+      "span_min": 5.440666666666671,
+      "r2": 0.9213547453840771,
+      "headphones": "airpods"
+    },
+    "D1": {
+      "deg_per_min": 5.5711794969945805,
+      "span_min": 20.160833333333354,
+      "r2": 0.9558129911171866,
+      "headphones": "airpods"
+    },
+    "C3": {
+      "deg_per_min": -5.152046968519088,
+      "span_min": 5.561000000000005,
+      "r2": 0.996093640125208,
+      "headphones": "airpods"
+    },
+    "C4": {
+      "deg_per_min": -5.13472664560809,
+      "span_min": 5.459833333333338,
+      "r2": 0.9966510307739677,
+      "headphones": "airpods"
+    },
+    "D2": {
+      "deg_per_min": -4.806046206213614,
+      "span_min": 19.54333333333335,
+      "r2": 0.9995780924503055,
+      "headphones": "airpods"
+    },
+    "D1_per_minute": {
+      "headphones": "airpods",
+      "median_yaw_error_deg": [
+        -46.66546611817314,
+        -44.853423814286785,
+        -41.84936209448614,
+        -38.0800686685636,
+        -36.29085929952629,
+        -32.25229784287262,
+        -25.710260599769967,
+        -19.09540169145241,
+        -12.511868012058983,
+        -4.653258624688618,
+        2.8848193411766943,
+        11.436411294835466,
+        19.504979904602408,
+        26.85928177988174,
+        34.57538986717054,
+        41.996895853478634,
+        41.73339736362408,
+        39.857422700442186,
+        38.78909538703962,
+        37.46372263052173,
+        36.34927156370898
+      ],
+      "max_step_deg_per_min": 8.551591953658772,
+      "total_range_deg": 88.66236197165178,
+      "first_5min_deg_per_min": 2.7178368281771705,
+      "steepest_60s_deg_per_min": 9.092846803998295,
+      "until_heading_jump_min": null
+    },
+    "D2_per_minute": {
+      "headphones": "airpods",
+      "median_yaw_error_deg": [
+        42.19485972489758,
+        37.8327772905551,
+        33.01056805195901,
+        27.88426411169104,
+        23.18218595501648,
+        18.64012153465012,
+        13.165234386664267,
+        8.699765283063059,
+        3.5623569409884226,
+        -1.0066049506258992,
+        -5.3937599439864385,
+        -10.691339367626256,
+        -16.19996097485327,
+        -18.96412723333347,
+        -25.025032908433047,
+        -29.873962739419966,
+        -34.12424485982706,
+        -38.73138777688263,
+        -43.89198245652145,
+        -47.19512770335791
+      ],
+      "max_step_deg_per_min": -2.764166258480202,
+      "total_range_deg": 89.3899874282555,
+      "first_5min_deg_per_min": -4.9554099006167736,
+      "steepest_60s_deg_per_min": 7.131189035457734,
+      "until_heading_jump_min": 19.544182847483334
+    }
+  },
+  "heading_jumps": {
+    "P": [],
+    "S": [],
+    "C1": [],
+    "C2": [],
+    "D1": [],
+    "C3": [],
+    "C4": [],
+    "D2": [
+      {
+        "t_from_start_s": 1173.650970849,
+        "deg": 84.42195966442766,
+        "gyro_dps": 0.8613595747416435
+      },
+      {
+        "t_from_start_s": 1178.910300557,
+        "deg": 22.390772782111824,
+        "gyro_dps": 57.077649116306205
+      }
+    ]
+  },
+  "drift_checks": [
+    {
+      "label": "K1",
+      "path": "runs/20261023T075304Z_ht_core",
+      "day": 2,
+      "audio": "silent",
+      "note": "check 2.7 h after C3",
+      "minutes": 5.45999999999999,
+      "deg_per_min": -5.0328220730026025,
+      "r2": 0.990610457791117,
+      "rate_hz": 47.74922707581873,
+      "gaps_per_min": 19.597069597069634,
+      "heading_jumps": 0
+    },
+    {
+      "label": "K2",
+      "path": "runs/20261023T082015Z_ht_core",
+      "day": 2,
+      "audio": "silent",
+      "note": "after about 15 min off the head",
+      "minutes": 5.525833333333338,
+      "deg_per_min": 6.201133534597506,
+      "r2": 0.9912672019277815,
+      "rate_hz": 46.724488078062485,
+      "gaps_per_min": 26.05941788568841,
+      "heading_jumps": 0
+    },
+    {
+      "label": "K3",
+      "path": "runs/20261023T083336Z_ht_core",
+      "day": 2,
+      "audio": "silent",
+      "note": "before a break",
+      "minutes": 5.634666666666672,
+      "deg_per_min": 6.1874400025427905,
+      "r2": 0.9929316973759842,
+      "rate_hz": 46.30632929253199,
+      "gaps_per_min": 29.105537150970157,
+      "heading_jumps": 0
+    },
+    {
+      "label": "K4",
+      "path": "runs/20261023T085519Z_ht_core",
+      "day": 2,
+      "audio": "silent",
+      "note": "after a break of about 7.5 min",
+      "minutes": 5.495333333333337,
+      "deg_per_min": 6.405875586938235,
+      "r2": 0.9952055696578302,
+      "rate_hz": 47.1596377409959,
+      "gaps_per_min": 23.11051801528568,
+      "heading_jumps": 0
+    }
+  ],
+  "webcam_yaw_trend": {
+    "sessions": {
+      "C1": {
+        "mediapipe": {
+          "deg_per_min": 0.117692525602962,
+          "r2": 0.023551618727528756
+        },
+        "vision": {
+          "deg_per_min": 0.17809546449287797,
+          "r2": 0.010335546807500706
+        }
+      },
+      "C2": {
+        "mediapipe": {
+          "deg_per_min": 0.025598989444947325,
+          "r2": 0.0009870465329447908
+        },
+        "vision": {
+          "deg_per_min": 0.2477494890947369,
+          "r2": 0.013470832866476656
+        }
+      },
+      "D1": {
+        "mediapipe": {
+          "deg_per_min": 0.06588465384201299,
+          "r2": 0.07403071241865955
+        },
+        "vision": {
+          "deg_per_min": 0.046687383182836106,
+          "r2": 0.013448319343530524
+        }
+      },
+      "C3": {
+        "mediapipe": {
+          "deg_per_min": 0.09938924976974027,
+          "r2": 0.026082775489786436
+        },
+        "vision": {
+          "deg_per_min": -0.3829699421694189,
+          "r2": 0.04952207584626189
+        }
+      },
+      "C4": {
+        "mediapipe": {
+          "deg_per_min": -0.11822879672190224,
+          "r2": 0.03681043125683059
+        },
+        "vision": {
+          "deg_per_min": -0.906433135841522,
+          "r2": 0.26595041943854214
+        }
+      },
+      "D2": {
+        "mediapipe": {
+          "deg_per_min": 0.06276219767068933,
+          "r2": 0.10592619985907903
+        },
+        "vision": {
+          "deg_per_min": 0.19651261805247514,
+          "r2": 0.12944514398129492
+        }
+      },
+      "K1": {
+        "mediapipe": {
+          "deg_per_min": 0.09644281312811924,
+          "r2": 0.02095511753592294
+        },
+        "vision": {
+          "deg_per_min": 0.5929250008700621,
+          "r2": 0.07807692286669665
+        }
+      },
+      "K2": {
+        "mediapipe": {
+          "deg_per_min": -0.020192099615172803,
+          "r2": 0.0011713767699790267
+        },
+        "vision": {
+          "deg_per_min": -0.20248627414136494,
+          "r2": 0.007565906348676266
+        }
+      },
+      "K3": {
+        "mediapipe": {
+          "deg_per_min": 0.012538314194769834,
+          "r2": 0.0006819998720223319
+        },
+        "vision": {
+          "deg_per_min": -0.00745644387427846,
+          "r2": 2.1345568773423196e-05
+        }
+      },
+      "K4": {
+        "mediapipe": {
+          "deg_per_min": 0.028908869565469036,
+          "r2": 0.003315231697148202
+        },
+        "vision": {
+          "deg_per_min": 0.3047994007821355,
+          "r2": 0.024663305805668112
+        }
+      }
+    },
+    "summary": {
+      "mediapipe": {
+        "max_abs_deg_per_min": 0.11822879672190224,
+        "max_r2": 0.10592619985907903
+      },
+      "vision": {
+        "max_abs_deg_per_min": 0.906433135841522,
+        "max_r2": 0.26595041943854214
+      }
+    }
+  },
+  "drift_sessions": {
+    "median": 89.02617469995363,
+    "min": 88.66236197165178,
+    "max": 89.3899874282555,
+    "n": 2
+  },
+  "per_session": [
+    {
+      "label": "P",
+      "day": 1,
+      "audio": "silent",
+      "roles": [
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 2.521333333333336,
+      "airpods_rate_hz": 46.73255592246395,
+      "airpods_gaps": 72,
+      "airpods_gaps_per_min": 28.556319407720753,
+      "airpods_drift_deg_per_min": -1.005137708278359,
+      "sync_best_ms": 1.9683755,
+      "sync_bound_ms": 3.260021,
+      "airpods_motion_to_data_ms": 49.127993626088944,
+      "airpods_geodesic_still_deg": 1.2813840147158821,
+      "airpods_geodesic_moving_deg": 2.876139273522628,
+      "mediapipe_motion_to_data_ms": 91.28582172078656,
+      "mediapipe_geodesic_still_deg": 1.4898021709121763,
+      "mediapipe_geodesic_moving_deg": 2.528479011136753,
+      "vision_motion_to_data_ms": 86.17934130919215,
+      "vision_geodesic_still_deg": 3.266341477455233,
+      "vision_geodesic_moving_deg": 6.310302498450623
+    },
+    {
+      "label": "S",
+      "day": 1,
+      "audio": "silent",
+      "roles": [
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 0.7716666666666673,
+      "airpods_rate_hz": 48.64974315517592,
+      "airpods_gaps": 7,
+      "airpods_gaps_per_min": 9.071274298056148,
+      "airpods_drift_deg_per_min": -1.308914734736611,
+      "sync_best_ms": 2.018708,
+      "sync_bound_ms": 2.459,
+      "airpods_motion_to_data_ms": 27.991437178337726,
+      "airpods_geodesic_still_deg": 1.6323724629327585,
+      "airpods_geodesic_moving_deg": 1.6764452159396845,
+      "mediapipe_motion_to_data_ms": 84.56844830044605,
+      "mediapipe_geodesic_still_deg": 1.8213037531162357,
+      "mediapipe_geodesic_moving_deg": 2.0547710937400367,
+      "vision_motion_to_data_ms": 81.03531461347887,
+      "vision_geodesic_still_deg": 1.8881115282542977,
+      "vision_geodesic_moving_deg": 4.443856928914828
+    },
+    {
+      "label": "C1",
+      "day": 1,
+      "audio": "silent",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 5.470500000000004,
+      "airpods_rate_hz": 44.01631262754664,
+      "airpods_gaps": 236,
+      "airpods_gaps_per_min": 43.140480760442344,
+      "airpods_drift_deg_per_min": 1.7878478680021848,
+      "sync_best_ms": 2.0184165,
+      "sync_bound_ms": 3.969417,
+      "airpods_motion_to_data_ms": 41.754704184477774,
+      "airpods_geodesic_still_deg": 2.571849882660704,
+      "airpods_geodesic_moving_deg": 3.837547729272724,
+      "mediapipe_motion_to_data_ms": 90.65344368670473,
+      "mediapipe_geodesic_still_deg": 1.3148843994562749,
+      "mediapipe_geodesic_moving_deg": 2.0266570826624277,
+      "vision_motion_to_data_ms": 86.11088557615663,
+      "vision_geodesic_still_deg": 2.7782646416818486,
+      "vision_geodesic_moving_deg": 7.364057336658376
+    },
+    {
+      "label": "C2",
+      "day": 1,
+      "audio": "music",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 5.547333333333339,
+      "airpods_rate_hz": 49.727415785331786,
+      "airpods_gaps": 15,
+      "airpods_gaps_per_min": 2.704001922845809,
+      "airpods_drift_deg_per_min": 1.923045406185689,
+      "sync_best_ms": 1.955167,
+      "sync_bound_ms": 3.518687,
+      "airpods_motion_to_data_ms": 39.11354898388205,
+      "airpods_geodesic_still_deg": 2.5333719821853675,
+      "airpods_geodesic_moving_deg": 4.130482841005981,
+      "mediapipe_motion_to_data_ms": 80.74550815151854,
+      "mediapipe_geodesic_still_deg": 1.3019595341354626,
+      "mediapipe_geodesic_moving_deg": 1.6096987403637522,
+      "vision_motion_to_data_ms": 84.06975686584609,
+      "vision_geodesic_still_deg": 3.497184575497675,
+      "vision_geodesic_moving_deg": 6.314374193405766
+    },
+    {
+      "label": "D1",
+      "day": 1,
+      "audio": "music",
+      "roles": [
+        "drift"
+      ],
+      "headphones": "airpods",
+      "minutes": 20.263666666666683,
+      "airpods_rate_hz": 49.56628408421352,
+      "airpods_gaps": 87,
+      "airpods_gaps_per_min": 4.293398693885605,
+      "airpods_drift_deg_per_min": 5.5711794969945805,
+      "sync_best_ms": 1.9204165,
+      "sync_bound_ms": 7.2973125,
+      "airpods_motion_to_data_ms": 31.6944717824137,
+      "airpods_geodesic_still_deg": 35.23381872898759,
+      "airpods_geodesic_moving_deg": 36.53556344627799,
+      "mediapipe_motion_to_data_ms": 76.14253873742273,
+      "mediapipe_geodesic_still_deg": 1.7625782533273338,
+      "mediapipe_geodesic_moving_deg": 2.0190348295337,
+      "vision_motion_to_data_ms": 69.33449149286069,
+      "vision_geodesic_still_deg": 3.648905662229585,
+      "vision_geodesic_moving_deg": 4.080275601057819
+    },
+    {
+      "label": "C3",
+      "day": 2,
+      "audio": "silent",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 5.602166666666672,
+      "airpods_rate_hz": 46.05062374961661,
+      "airpods_gaps": 161,
+      "airpods_gaps_per_min": 28.738880790170445,
+      "airpods_drift_deg_per_min": -5.152046968519088,
+      "sync_best_ms": 1.9767085,
+      "sync_bound_ms": 2.4245205,
+      "airpods_motion_to_data_ms": 50.697697915951395,
+      "airpods_geodesic_still_deg": 6.8660950297413965,
+      "airpods_geodesic_moving_deg": 7.96810178671245,
+      "mediapipe_motion_to_data_ms": 66.33735975968713,
+      "mediapipe_geodesic_still_deg": 1.1541978599157512,
+      "mediapipe_geodesic_moving_deg": 1.8302815431397264,
+      "vision_motion_to_data_ms": 69.7361372917577,
+      "vision_geodesic_still_deg": 2.9999276010307017,
+      "vision_geodesic_moving_deg": 6.541003843018795
+    },
+    {
+      "label": "C4",
+      "day": 2,
+      "audio": "music",
+      "roles": [
+        "core",
+        "latency"
+      ],
+      "headphones": "airpods",
+      "minutes": 5.4626666666666726,
+      "airpods_rate_hz": 49.48096491398603,
+      "airpods_gaps": 29,
+      "airpods_gaps_per_min": 5.308762509153033,
+      "airpods_drift_deg_per_min": -5.13472664560809,
+      "sync_best_ms": 1.906042,
+      "sync_bound_ms": 2.290229,
+      "airpods_motion_to_data_ms": 37.70640869981941,
+      "airpods_geodesic_still_deg": 7.03489442928138,
+      "airpods_geodesic_moving_deg": 7.735797628420695,
+      "mediapipe_motion_to_data_ms": 56.78663045435036,
+      "mediapipe_geodesic_still_deg": 1.436671266974561,
+      "mediapipe_geodesic_moving_deg": 1.7803983448225957,
+      "vision_motion_to_data_ms": 66.49408475886064,
+      "vision_geodesic_still_deg": 3.5566492266317438,
+      "vision_geodesic_moving_deg": 5.346158753523383
+    },
+    {
+      "label": "D2",
+      "day": 2,
+      "audio": "music",
+      "roles": [
+        "drift"
+      ],
+      "headphones": "airpods",
+      "minutes": 20.34550000000002,
+      "airpods_rate_hz": 49.53395427074778,
+      "airpods_gaps": 95,
+      "airpods_gaps_per_min": 4.669337199872203,
+      "airpods_drift_deg_per_min": -4.806046206213614,
+      "sync_best_ms": 1.970958,
+      "sync_bound_ms": 2.969334,
+      "airpods_motion_to_data_ms": 28.66987491109358,
+      "airpods_geodesic_still_deg": 28.626916605261588,
+      "airpods_geodesic_moving_deg": 21.351812156354327,
+      "mediapipe_motion_to_data_ms": 74.30734033918857,
+      "mediapipe_geodesic_still_deg": 1.5068491919768419,
+      "mediapipe_geodesic_moving_deg": 1.7973946171322333,
+      "vision_motion_to_data_ms": 61.287271258291774,
+      "vision_geodesic_still_deg": 4.415284733196039,
+      "vision_geodesic_moving_deg": 5.124100175785362
+    }
+  ],
+  "days": [
+    1,
+    2
+  ],
+  "marker_check": null,
+  "by_audio": {
+    "airpods": {
+      "silent": {
+        "sessions": [
+          "C1",
+          "C3"
+        ],
+        "rate_hz": {
+          "median": 45.03346818858162,
+          "min": 44.01631262754664,
+          "max": 46.05062374961661,
+          "n": 2
+        },
+        "gaps_per_min": {
+          "median": 35.93968077530639,
+          "min": 28.738880790170445,
+          "max": 43.140480760442344,
+          "n": 2
+        }
+      },
+      "music": {
+        "sessions": [
+          "C2",
+          "D1",
+          "C4",
+          "D2"
+        ],
+        "rate_hz": {
+          "median": 49.55011917748065,
+          "min": 49.48096491398603,
+          "max": 49.727415785331786,
+          "n": 4
+        },
+        "gaps_per_min": {
+          "median": 4.481367946878904,
+          "min": 2.704001922845809,
+          "max": 5.308762509153033,
+          "n": 4
+        }
+      }
+    }
+  }
+}

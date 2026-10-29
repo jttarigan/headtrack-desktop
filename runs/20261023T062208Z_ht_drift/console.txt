@@ -1,0 +1,24 @@
+2026-10-23T06:22:08.574Z  session runs/20261023T062208Z_ht_drift, protocol drift, output {"name":"JTAIRPDMAX2","transport":"blue"}
+2026-10-23T06:22:08.577Z  airpods: authorization 3, device motion available 1
+2026-10-23T06:22:08.580Z  airpods: connected
+2026-10-23T06:22:08.673Z  camera: MacBook Air Camera, active format 1280x720
+2026-10-23T06:22:08.683Z  reference: found HeadTrackRef
+2026-10-23T06:22:08.694Z  reference: connected to HeadTrackRef
+2026-10-23T06:22:08.788Z  airpods: disconnected
+2026-10-23T06:22:08.792Z  airpods: connected
+2026-10-23T06:22:09.271Z  camera: first frame 1280x720, 5120 bytes per row
+2026-10-23T06:22:09.272Z  frame share: /eht_frames, 4 slots of 3686432 bytes, wake-up fifo runs/20261023T062208Z_ht_drift/frames.fifo
+2026-10-23T06:22:09.448Z  mediapipe: reader attached
+2026-10-23T06:22:16.838Z  step: 1/9 10.0s Face the screen and hold still
+2026-10-23T06:22:26.936Z  step: 2/9 290.0s Normal desk work. Keep your face toward the screen
+2026-10-23T06:27:16.935Z  step: 3/9 10.0s Face the screen and hold still
+2026-10-23T06:27:27.035Z  step: 4/9 290.0s Normal desk work. Keep your face toward the screen
+2026-10-23T06:32:17.034Z  step: 5/9 10.0s Face the screen and hold still
+2026-10-23T06:32:27.134Z  step: 6/9 290.0s Normal desk work. Keep your face toward the screen
+2026-10-23T06:37:17.283Z  step: 7/9 10.0s Face the screen and hold still
+2026-10-23T06:37:27.383Z  step: 8/9 290.0s Normal desk work. Keep your face toward the screen
+2026-10-23T06:42:17.386Z  step: 9/9 10.0s Face the screen and hold still
+2026-10-23T06:42:27.486Z  protocol: done
+2026-10-23T06:42:29.532Z  end: protocol_done
+2026-10-23T06:42:29.589Z  end (protocol_done): airpods 60475, camera 36602 (drops 0, vision faces 36602), shared 36602, ref 73112 (tracked 72818), pongs 12202
+2026-10-23T06:42:29.590Z  reference: connection closed

@@ -1,0 +1,70 @@
+t_ns,kind,detail
+14323829285333,airpods,connected
+14323916079541,reference,found HeadTrackRef
+14323926730125,reference,connected to HeadTrackRef
+14323993230333,airpods,disconnected
+14324012407750,airpods,connected
+14324498180750,camera,first frame 1280x720; 5120 bytes per row
+14324590714625,mediapipe,reader attached
+14334697351833,step,1/60 10.0s Face the screen and hold still
+14344755115166,step,2/60 10.0s Turn slowly left and right
+14354855598500,step,3/60 10.0s Nod slowly up and down
+14364955055375,step,4/60 10.0s Tilt your head slowly to each shoulder
+14375055478208,step,5/60 5.0s Face the screen and hold still
+14380154972333,step,6/60 5.0s Turn a little left and hold
+14385255397958,step,7/60 5.0s Turn about 30 degrees left and hold
+14390255439958,step,8/60 5.0s Turn about 45 degrees left and hold
+14395354921750,step,9/60 5.0s Turn as far left as the screen edge and hold
+14400455381625,step,10/60 5.0s Face the screen and hold
+14405554844625,step,11/60 5.0s Turn a little right and hold
+14410655292625,step,12/60 5.0s Turn about 30 degrees right and hold
+14415754869500,step,13/60 5.0s Turn about 45 degrees right and hold
+14420755692458,step,14/60 5.0s Turn as far right as the screen edge and hold
+14425855218875,step,15/60 5.0s Face the screen and hold
+14430955671208,step,16/60 5.0s Look a little up and hold
+14435955742000,step,17/60 5.0s Look further up and hold
+14441055202333,step,18/60 5.0s Face the screen and hold
+14446155737291,step,19/60 5.0s Look a little down and hold
+14451255140416,step,20/60 5.0s Look further down and hold
+14456355727541,step,21/60 5.0s Face the screen and hold
+14461355731375,step,22/60 5.0s Look up and to the left and hold
+14466455042833,step,23/60 5.0s Look up and to the right and hold
+14471555745875,step,24/60 5.0s Look down and to the left and hold
+14476654981291,step,25/60 5.0s Look down and to the right and hold
+14481654990208,step,26/60 5.0s Face the screen and hold
+14486755765666,step,27/60 15.0s Slow turns; left and right
+14501854906708,step,28/60 10.0s Medium speed turns; left and right
+14511955729583,step,29/60 8.0s Fast turns; left and right
+14519955755250,step,30/60 5.0s Face the screen and hold still
+14525054796208,step,31/60 12.0s Slow nods; up and down
+14537055604458,step,32/60 8.0s Medium speed nods
+14545055751916,step,33/60 6.0s Fast nods
+14551055765208,step,34/60 5.0s Face the screen and hold still
+14556155556750,step,35/60 3.0s Quick look left; then back to the screen
+14559155711458,step,36/60 3.0s Hold still
+14562255740458,step,37/60 3.0s Quick look right; then back to the screen
+14565355732875,step,38/60 3.0s Hold still
+14568455734208,step,39/60 3.0s Quick look left; then back to the screen
+14571455748208,step,40/60 3.0s Hold still
+14574555624708,step,41/60 3.0s Quick look right; then back to the screen
+14577655724166,step,42/60 3.0s Hold still
+14580755716208,step,43/60 3.0s Quick look left; then back to the screen
+14583855727625,step,44/60 3.0s Hold still
+14586855734875,step,45/60 3.0s Quick look right; then back to the screen
+14589955735916,step,46/60 3.0s Hold still
+14593055727791,step,47/60 3.0s Quick look left; then back to the screen
+14596155095083,step,48/60 3.0s Hold still
+14599155507458,step,49/60 3.0s Quick look right; then back to the screen
+14602155537916,step,50/60 3.0s Hold still
+14605255769541,step,51/60 8.0s Quick head shakes; left and right
+14613355732166,step,52/60 5.0s Face the screen and hold still
+14618455717750,step,53/60 5.0s Turn as far left as is comfortable and hold
+14623455741000,step,54/60 3.0s Face the screen
+14626555455708,step,55/60 5.0s Turn as far right as is comfortable and hold
+14631655767625,step,56/60 3.0s Face the screen
+14634755285208,step,57/60 5.0s Look as far up as is comfortable and hold
+14639755682416,step,58/60 3.0s Face the screen
+14642855750750,step,59/60 5.0s Look as far down as is comfortable and hold
+14647955374125,step,60/60 10.0s Face the screen and hold still
+14658055716500,protocol,done
+14660114796666,end,protocol_done

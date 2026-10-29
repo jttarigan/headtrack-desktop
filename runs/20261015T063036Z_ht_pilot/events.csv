@@ -1,0 +1,29 @@
+t_ns,kind,detail
+13034578224458,airpods,connected
+13034656110583,reference,found HeadTrackRef
+13034662109958,reference,connected to HeadTrackRef
+13034741564375,airpods,disconnected
+13034742420416,airpods,connected
+13035240875916,camera,first frame 1280x720; 5120 bytes per row
+13035330276500,mediapipe,reader attached
+13037994440291,step,1/19 10.0s Face the screen and hold still
+13048001765875,step,2/19 20.0s Turn slowly left and right; a few times
+13068002524416,step,3/19 15.0s Nod slowly up and down; a few times
+13083002526833,step,4/19 15.0s Tilt your head slowly to each shoulder
+13098102532916,step,5/19 5.0s Face the screen and hold still
+13103201999541,step,6/19 5.0s Turn about 30 degrees left and hold
+13108202533875,step,7/19 3.0s Face the screen
+13111301700541,step,8/19 5.0s Turn about 30 degrees right and hold
+13116302550166,step,9/19 3.0s Face the screen
+13119402523708,step,10/19 5.0s Look up and hold
+13124502506416,step,11/19 3.0s Face the screen
+13127502512541,step,12/19 5.0s Look down and hold
+13132502577958,step,13/19 3.0s Face the screen
+13135602573875,step,14/19 12.0s Hold still; then snap your head quickly to the left and back. Repeat
+13147702276083,step,15/19 3.0s Face the screen and hold still
+13150702513291,step,16/19 8.0s Quick head shakes; left and right
+13158802390833,step,17/19 5.0s Face the screen and hold still
+13163802538958,step,18/19 10.0s Turn as far left as is comfortable; then as far right
+13173902546500,step,19/19 10.0s Face the screen and hold still
+13184001958208,protocol,done
+13186052565916,end,protocol_done

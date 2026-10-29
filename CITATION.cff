@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Consumer head trackers for desktop spatial audio: recorder, analysis and data"
+type: software
+authors:
+  - family-names: Tarigan
+    given-names: Jos Timanta
+    orcid: "https://orcid.org/0000-0001-9433-2265"
+    affiliation: Universitas Sumatera Utara
+  - family-names: Nababan
+    given-names: Anandhini Medianty
+    orcid: "https://orcid.org/0000-0002-6768-7957"
+    affiliation: Universitas Sumatera Utara
+  - family-names: Zendrato
+    given-names: Niskarto
+    orcid: "https://orcid.org/0000-0003-3892-6418"
+    affiliation: Universitas Sumatera Utara
+license: MIT
+repository-code: "https://github.com/jttarigan/headtrack-desktop"
+keywords: [head tracking, spatial audio, AirPods, MediaPipe, Apple Vision, ARKit, latency]

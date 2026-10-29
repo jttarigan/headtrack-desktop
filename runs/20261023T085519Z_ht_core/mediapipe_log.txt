@@ -1,0 +1,7 @@
+I0000 00:00:1792745720.133928  725657 init-domain.cc:132] Fiber init: default domain = pthread, concurrency = 11, prefix = pthread-default
+W0000 00:00:1792745720.135001  725657 face_landmarker_graph.cc:180] Sets FaceBlendshapesGraph acceleration to xnnpack by default.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+W0000 00:00:1792745720.142647  725662 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1792745720.146667  725666 inference_feedback_manager.cc:121] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+attached: 1280x720, stride 5120, 4 slots, model sha256 64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff
+done: {"tool": "mp_live.py", "mediapipe": "1.1.0", "opencv": "5.0.0", "python": "3.9.6", "model": "headtrack/models/face_landmarker.task", "model_sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff", "frames_processed": 9874, "frames_with_face": 8295, "frames_skipped": 0, "frames_torn": 0, "process_cpu_s": 101.456, "wall_s": 329.173, "cpu_share_of_one_core": 0.308, "convert_plus_inference_ms": {"median": 7.894, "p95": 9.877, "max": 26.134}}

@@ -1,0 +1,16 @@
+{
+  "name": "snaps",
+  "steps": [
+    {"text": "Face the screen and hold still", "seconds": 5},
+    {"text": "Quick look left, then back to the screen", "seconds": 3},
+    {"text": "Hold still", "seconds": 3},
+    {"text": "Quick look left, then back to the screen", "seconds": 3},
+    {"text": "Hold still", "seconds": 3},
+    {"text": "Quick look left, then back to the screen", "seconds": 3},
+    {"text": "Hold still", "seconds": 3},
+    {"text": "Quick look left, then back to the screen", "seconds": 3},
+    {"text": "Hold still", "seconds": 3},
+    {"text": "Quick look left, then back to the screen", "seconds": 3},
+    {"text": "Face the screen and hold still", "seconds": 5}
+  ]
+}

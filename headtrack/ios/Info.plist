@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>HeadTrackRef</string>
+	<key>CFBundleDisplayName</key>
+	<string>HeadTrackRef</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.josta.echohunt.htref</string>
+	<key>CFBundleExecutable</key>
+	<string>HeadTrackRef</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>MinimumOSVersion</key>
+	<string>17.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+		<string>arkit</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>The TrueDepth camera tracks your head as the reference for the head-tracking study.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Head poses are sent to the recorder on your Mac over the local network.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_ehtref._udp</string>
+	</array>
+</dict>
+</plist>

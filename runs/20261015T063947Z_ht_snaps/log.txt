@@ -1,0 +1,25 @@
+2026-10-15T06:39:48.137Z  session runs/20261015T063947Z_ht_snaps, protocol snaps, output {"name":"JTAIRPDMAX2","transport":"blue"}
+2026-10-15T06:39:48.138Z  airpods: authorization 3, device motion available 1
+2026-10-15T06:39:48.141Z  airpods: connected
+2026-10-15T06:39:48.218Z  camera: MacBook Air Camera, active format 1280x720
+2026-10-15T06:39:48.221Z  reference: found HeadTrackRef
+2026-10-15T06:39:48.230Z  reference: connected to HeadTrackRef
+2026-10-15T06:39:48.307Z  airpods: disconnected
+2026-10-15T06:39:48.323Z  airpods: connected
+2026-10-15T06:39:48.819Z  camera: first frame 1280x720, 5120 bytes per row
+2026-10-15T06:39:48.820Z  frame share: /eht_frames, 4 slots of 3686432 bytes, wake-up fifo runs/20261015T063947Z_ht_snaps/frames.fifo
+2026-10-15T06:39:48.911Z  mediapipe: reader attached
+2026-10-15T06:39:55.157Z  step: 1/11 5.0s Face the screen and hold still
+2026-10-15T06:40:00.177Z  step: 2/11 3.0s Quick look left, then back to the screen
+2026-10-15T06:40:03.177Z  step: 3/11 3.0s Hold still
+2026-10-15T06:40:06.277Z  step: 4/11 3.0s Quick look left, then back to the screen
+2026-10-15T06:40:09.277Z  step: 5/11 3.0s Hold still
+2026-10-15T06:40:12.277Z  step: 6/11 3.0s Quick look left, then back to the screen
+2026-10-15T06:40:15.277Z  step: 7/11 3.0s Hold still
+2026-10-15T06:40:18.377Z  step: 8/11 3.0s Quick look left, then back to the screen
+2026-10-15T06:40:21.477Z  step: 9/11 3.0s Hold still
+2026-10-15T06:40:24.477Z  step: 10/11 3.0s Quick look left, then back to the screen
+2026-10-15T06:40:27.477Z  step: 11/11 5.0s Face the screen and hold still
+2026-10-15T06:40:32.577Z  protocol: done
+2026-10-15T06:40:34.612Z  end: protocol_done
+2026-10-15T06:40:34.666Z  end (protocol_done): airpods 2240, camera 1373 (drops 0, vision faces 1373), shared 1373, ref 2775 (tracked 2775), pongs 462

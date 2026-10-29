@@ -1,0 +1,12 @@
+ Wattage = 35W
+ Current = 1740mA
+ Voltage = 20000mV
+ AdapterID = 28699
+ Manufacturer = Apple Inc.
+ Family Code = 0xe000400a
+ Serial String = <redacted>
+ Adapter Name = 35W USB-C Power Adapter 
+ Hardware Version = 1.0
+ Firmware Version = 01070076
+Now drawing from 'AC Power'
+ -InternalBattery-0 (id=23003235)	80%; AC attached; not charging present: true

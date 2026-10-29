@@ -1,0 +1,33 @@
+2026-10-15T06:30:36.431Z  session runs/20261015T063036Z_ht_pilot, protocol pilot, output {"name":"JTAIRPDMAX2","transport":"blue"}
+2026-10-15T06:30:36.433Z  airpods: authorization 3, device motion available 1
+2026-10-15T06:30:36.436Z  airpods: connected
+2026-10-15T06:30:36.511Z  camera: MacBook Air Camera, active format 1280x720
+2026-10-15T06:30:36.514Z  reference: found HeadTrackRef
+2026-10-15T06:30:36.520Z  reference: connected to HeadTrackRef
+2026-10-15T06:30:36.599Z  airpods: disconnected
+2026-10-15T06:30:36.600Z  airpods: connected
+2026-10-15T06:30:37.098Z  camera: first frame 1280x720, 5120 bytes per row
+2026-10-15T06:30:37.098Z  frame share: /eht_frames, 4 slots of 3686432 bytes, wake-up fifo runs/20261015T063036Z_ht_pilot/frames.fifo
+2026-10-15T06:30:37.188Z  mediapipe: reader attached
+2026-10-15T06:30:39.852Z  step: 1/19 10.0s Face the screen and hold still
+2026-10-15T06:30:49.859Z  step: 2/19 20.0s Turn slowly left and right, a few times
+2026-10-15T06:31:09.860Z  step: 3/19 15.0s Nod slowly up and down, a few times
+2026-10-15T06:31:24.860Z  step: 4/19 15.0s Tilt your head slowly to each shoulder
+2026-10-15T06:31:39.960Z  step: 5/19 5.0s Face the screen and hold still
+2026-10-15T06:31:45.057Z  step: 6/19 5.0s Turn about 30 degrees left and hold
+2026-10-15T06:31:50.052Z  step: 7/19 3.0s Face the screen
+2026-10-15T06:31:53.148Z  step: 8/19 5.0s Turn about 30 degrees right and hold
+2026-10-15T06:31:58.146Z  step: 9/19 3.0s Face the screen
+2026-10-15T06:32:01.244Z  step: 10/19 5.0s Look up and hold
+2026-10-15T06:32:06.342Z  step: 11/19 3.0s Face the screen
+2026-10-15T06:32:09.341Z  step: 12/19 5.0s Look down and hold
+2026-10-15T06:32:14.340Z  step: 13/19 3.0s Face the screen
+2026-10-15T06:32:17.439Z  step: 14/19 12.0s Hold still, then snap your head quickly to the left and back. Repeat
+2026-10-15T06:32:29.538Z  step: 15/19 3.0s Face the screen and hold still
+2026-10-15T06:32:32.538Z  step: 16/19 8.0s Quick head shakes, left and right
+2026-10-15T06:32:40.637Z  step: 17/19 5.0s Face the screen and hold still
+2026-10-15T06:32:45.637Z  step: 18/19 10.0s Turn as far left as is comfortable, then as far right
+2026-10-15T06:32:55.737Z  step: 19/19 10.0s Face the screen and hold still
+2026-10-15T06:33:05.836Z  protocol: done
+2026-10-15T06:33:07.887Z  end: protocol_done
+2026-10-15T06:33:07.939Z  end (protocol_done): airpods 7068, camera 4520 (drops 0, vision faces 4337), shared 4520, ref 9063 (tracked 7858), pongs 1508

@@ -1,0 +1,12 @@
+{
+ "source": "system_profiler SPBluetoothDataType -json",
+ "connected_headphones": [
+  {
+   "name": "JTAIRPDMAX2",
+   "firmware": "9A348",
+   "vendor_id": "0x004C",
+   "product_id": "0x202D",
+   "minor_type": "Headphones"
+  }
+ ]
+}

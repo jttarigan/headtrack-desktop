@@ -1,0 +1,21 @@
+t_ns,kind,detail
+13586308574125,airpods,connected
+13586387794708,reference,found HeadTrackRef
+13586396719375,reference,connected to HeadTrackRef
+13586473786958,airpods,disconnected
+13586490285708,airpods,connected
+13586986588625,camera,first frame 1280x720; 5120 bytes per row
+13587078345708,mediapipe,reader attached
+13593323919083,step,1/11 5.0s Face the screen and hold still
+13598344036333,step,2/11 3.0s Quick look left; then back to the screen
+13601344322041,step,3/11 3.0s Hold still
+13604444333625,step,4/11 3.0s Quick look left; then back to the screen
+13607444337000,step,5/11 3.0s Hold still
+13610444370375,step,6/11 3.0s Quick look left; then back to the screen
+13613444382375,step,7/11 3.0s Hold still
+13616544330375,step,8/11 3.0s Quick look left; then back to the screen
+13619644337666,step,9/11 3.0s Hold still
+13622644351500,step,10/11 3.0s Quick look left; then back to the screen
+13625644346208,step,11/11 5.0s Face the screen and hold still
+13630744326708,protocol,done
+13632779138208,end,protocol_done

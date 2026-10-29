@@ -1,0 +1,8 @@
+{
+  "name": "smoke",
+  "steps": [
+    {"text": "Face the screen and hold still", "seconds": 5},
+    {"text": "Turn your head slowly left and right", "seconds": 10},
+    {"text": "Face the screen and hold still", "seconds": 5}
+  ]
+}

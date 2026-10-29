@@ -1,0 +1,132 @@
+{
+ "note": "Sessions used by headtrack/analysis/paper_results.py. Day 1 = 2026-10-15, office light, Jos. Add days with headtrack/paper/add_day.py. Drift checks K1-K4 (day 2, another app running on the Mac) are used for headphone drift and delivery only.",
+ "sessions": [
+  {
+   "label": "P",
+   "path": "runs/20261015T063036Z_ht_pilot",
+   "roles": [
+    "latency"
+   ],
+   "condition": "pilot protocol, silent",
+   "day": 1,
+   "audio": "silent"
+  },
+  {
+   "label": "S",
+   "path": "runs/20261015T063947Z_ht_snaps",
+   "roles": [
+    "latency"
+   ],
+   "condition": "quick turns, silent",
+   "day": 1,
+   "audio": "silent"
+  },
+  {
+   "label": "C1",
+   "path": "runs/20261015T073717Z_ht_core",
+   "roles": [
+    "core",
+    "latency"
+   ],
+   "condition": "full protocol, silent",
+   "day": 1,
+   "audio": "silent"
+  },
+  {
+   "label": "C2",
+   "path": "runs/20261015T074821Z_ht_core",
+   "roles": [
+    "core",
+    "latency"
+   ],
+   "condition": "full protocol, music",
+   "day": 1,
+   "audio": "music"
+  },
+  {
+   "label": "D1",
+   "path": "runs/20261015T075825Z_ht_drift",
+   "roles": [
+    "drift"
+   ],
+   "condition": "20 min desk work, music",
+   "day": 1,
+   "audio": "music"
+  },
+  {
+   "label": "C3",
+   "path": "runs/20261023T051220Z_ht_core",
+   "roles": [
+    "core",
+    "latency"
+   ],
+   "condition": "full protocol, silent",
+   "day": 2,
+   "audio": "silent",
+   "headphones": "max2"
+  },
+  {
+   "label": "C4",
+   "path": "runs/20261023T051904Z_ht_core",
+   "roles": [
+    "core",
+    "latency"
+   ],
+   "condition": "full protocol, music",
+   "day": 2,
+   "audio": "music",
+   "headphones": "max2"
+  },
+  {
+   "label": "D2",
+   "path": "runs/20261023T062208Z_ht_drift",
+   "roles": [
+    "drift"
+   ],
+   "condition": "20 min desk work, music",
+   "day": 2,
+   "audio": "music",
+   "headphones": "max2"
+  }
+ ],
+ "fig_turn": {
+  "session": "S",
+  "t_start": 18.8,
+  "dur": 1.6,
+  "hold": [
+   0.75,
+   1.0
+  ]
+ },
+ "utc_offset_h": 7,
+ "drift_checks": [
+  {
+   "label": "K1",
+   "path": "runs/20261023T075304Z_ht_core",
+   "day": 2,
+   "audio": "silent",
+   "note": "check 2.7 h after C3"
+  },
+  {
+   "label": "K2",
+   "path": "runs/20261023T082015Z_ht_core",
+   "day": 2,
+   "audio": "silent",
+   "note": "after about 15 min off the head"
+  },
+  {
+   "label": "K3",
+   "path": "runs/20261023T083336Z_ht_core",
+   "day": 2,
+   "audio": "silent",
+   "note": "before a break"
+  },
+  {
+   "label": "K4",
+   "path": "runs/20261023T085519Z_ht_core",
+   "day": 2,
+   "audio": "silent",
+   "note": "after a break of about 7.5 min"
+  }
+ ]
+}

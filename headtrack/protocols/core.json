@@ -1,0 +1,245 @@
+{
+  "name": "core",
+  "steps": [
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    },
+    {
+      "text": "Turn slowly left and right",
+      "seconds": 10
+    },
+    {
+      "text": "Nod slowly up and down",
+      "seconds": 10
+    },
+    {
+      "text": "Tilt your head slowly to each shoulder",
+      "seconds": 10
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Turn a little left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn about 30 degrees left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn about 45 degrees left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn as far left as the screen edge and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn a little right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn about 30 degrees right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn about 45 degrees right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Turn as far right as the screen edge and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look a little up and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look further up and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look a little down and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look further down and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look up and to the left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look up and to the right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look down and to the left and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Look down and to the right and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Slow turns, left and right",
+      "seconds": 15
+    },
+    {
+      "text": "Medium speed turns, left and right",
+      "seconds": 10
+    },
+    {
+      "text": "Fast turns, left and right",
+      "seconds": 8
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Slow nods, up and down",
+      "seconds": 12
+    },
+    {
+      "text": "Medium speed nods",
+      "seconds": 8
+    },
+    {
+      "text": "Fast nods",
+      "seconds": 6
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Quick look left, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look right, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look left, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look right, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look left, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look right, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look left, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick look right, then back to the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Hold still",
+      "seconds": 3
+    },
+    {
+      "text": "Quick head shakes, left and right",
+      "seconds": 8
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 5
+    },
+    {
+      "text": "Turn as far left as is comfortable and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Turn as far right as is comfortable and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Look as far up as is comfortable and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen",
+      "seconds": 3
+    },
+    {
+      "text": "Look as far down as is comfortable and hold",
+      "seconds": 5
+    },
+    {
+      "text": "Face the screen and hold still",
+      "seconds": 10
+    }
+  ]
+}

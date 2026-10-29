@@ -1,0 +1,4 @@
+build/
+headtrack/.venv/
+headtrack/models/
+__pycache__/

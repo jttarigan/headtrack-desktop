@@ -1,0 +1,45 @@
+{
+  "name": "calib",
+  "steps": [
+    {
+      "text": "Hold the calibration board flat in front of the camera, filling about half the picture",
+      "seconds": 8
+    },
+    {
+      "text": "Move the board slowly closer and further away",
+      "seconds": 8
+    },
+    {
+      "text": "Tilt the board left and right, slowly",
+      "seconds": 8
+    },
+    {
+      "text": "Tilt the board up and down, slowly",
+      "seconds": 8
+    },
+    {
+      "text": "Move the board to the left side of the picture",
+      "seconds": 8
+    },
+    {
+      "text": "Move the board to the right side of the picture",
+      "seconds": 8
+    },
+    {
+      "text": "Move the board to the top of the picture",
+      "seconds": 8
+    },
+    {
+      "text": "Move the board to the bottom of the picture",
+      "seconds": 8
+    },
+    {
+      "text": "Turn the board slowly, like a steering wheel",
+      "seconds": 8
+    },
+    {
+      "text": "Done. Put the board down",
+      "seconds": 3
+    }
+  ]
+}
